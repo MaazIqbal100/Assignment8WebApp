@@ -1,0 +1,33 @@
+body{
+    font-size: 30px;
+    background-color: rgb(59, 59, 59);
+    font-family:'Times New Roman'
+}
+h1,h3{
+    display: inline-block;
+    word-spacing: 20px;
+}
+div{
+    width: 95%;
+    background-color: rgb(146, 146, 146);
+    margin-top: 80px;
+}
+h1{
+    color:black;
+}
+h3{
+    color: rgb(18, 22, 233);
+}
+h2{
+    margin-top: 150px;
+}
+button{
+    margin-top: 30px;
+    height: 40px;
+    width: 80px;
+    color: red;
+    background-color: lightcyan;
+    border-radius: 10px;
+    border: 2px solid red;
+    cursor: pointer;
+}
